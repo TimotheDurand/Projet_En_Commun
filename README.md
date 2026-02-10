@@ -7,16 +7,16 @@
 <br>Productivité & Business
 <br>
 <br>1 - Plateforme de gestion de projets freelance - Alternative à Notion/Trello spécialisée pour freelances avec facturation intégrée, suivi du temps, gestion clients
-<br>2 - Outil de transcription & résumé de réunions - Enregistre, transcrit et génère des compte-rendus automatiques (Web + Python pour l'IA)
+<br>###2 - Outil de transcription & résumé de réunions - Enregistre, transcrit et génère des compte-rendus automatiques (Web + Python pour l'IA)
 <br>3 - Générateur de documents légaux - Contrats, CGV, mentions légales personnalisables pour TPE/auto-entrepreneurs
-<br>4 - Dashboard analytics multi-plateformes - Agrège les stats de plusieurs sources (réseaux sociaux, analytics, ventes) en un seul endroit
+<br>###4 - Dashboard analytics multi-plateformes - Agrège les stats de plusieurs sources (réseaux sociaux, analytics, ventes) en un seul endroit
 <br>5 - Outil de planification de contenu social media - Calendrier éditorial, suggestions de posts, analytics (concurrent de Buffer/Hootsuite simplifié)
 <br>
 <br>Pour Développeurs
 <br>
 <br>6 - Plateforme de monitoring d'APIs - Surveille la disponibilité, performance et erreurs des APIs avec alertes
 <br>7 - Marketplace de snippets de code - Achat/vente de composants réutilisables, templates, scripts
-<br>8 - Générateur de documentation automatique - Analyse le code et crée une doc interactive et bien formatée
+<br>###8 - Générateur de documentation automatique - Analyse le code et crée une doc interactive et bien formatée
 <br>10 - Outil de code review collaboratif - Alternative simplifiée à GitHub PR avec focus sur le mentorat
 <br>11 - Sandbox d'environnements de dev temporaires - Crée des environnements isolés éphémères pour tester du code
 <br>
@@ -32,8 +32,8 @@
 <br>Extensions/Plugins
 <br>
 <br>17 - Extension navigateur de productivité - Bloque distractions, track le temps, analyse vos habitudes web
-<br>18 - Plugin VSCode/IDE premium - Fonctionnalités avancées (refactoring IA, tests auto, etc.)
-<br>19 - Extension de e-commerce - Comparateur de prix, alertes de baisse, historique des prix
+<br>###18 - Plugin VSCode/IDE premium - Fonctionnalités avancées (refactoring IA, tests auto, etc.)
+<br>###19 - Extension de e-commerce - Comparateur de prix, alertes de baisse, historique des prix
 <br>
 <br>🎯 Grand Public avec Monétisation Mixte
 <br>Applications Web
@@ -54,7 +54,7 @@
 <br>
 <br>28 - Service d'envoi d'emails transactionnels - Alternative à SendGrid/Mailgun avec pricing agressif
 <br>29 - Plateforme de A/B testing - Pour sites web et applications
-<br>30 - Outil de scraping web éthique - Interface simple pour extraire des données légalement
+<br>###30 - Outil de scraping web éthique - Interface simple pour extraire des données légalement
 <br>31 - Service de conversion de fichiers - API + interface web pour tous types de conversions
 <br>
 <br>🎮 Gaming/Communauté
@@ -69,7 +69,7 @@
 <br>36 - Outil anti-procrastination - Combine pomodoro, blocage de sites, accountability sociale
 <br>37 - Plateforme de micro-consulting - Questions rapides répondues par des experts (5-30min)
 <br>38 - Générateur de landing pages - Templates convertissants, A/B testing intégré, analytics
-<br>39 - Service de monitoring de prix/stock - Alerte quand produits disponibles ou en promo
+<br>###39 - Service de monitoring de prix/stock - Alerte quand produits disponibles ou en promo
 <br>40 - Outil de gestion de side-projects - Spécialement pour développeurs qui jonglent entre plusieurs projets
 <br>41 - Plateforme de feedback utilisateur - Widgets, surveys, heatmaps pour sites web
 <br>
