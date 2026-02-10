@@ -6,8 +6,7 @@ Idée IA : ( Je met ### devant celle qui m'interesse
 🚀 SAAS / Outils en Ligne (Revenus Récurrents)
 Productivité & Business
 
-1 - Plateforme de gestion de projets freelance - Alternative à Notion/Trello spécialisée pour freelances avec facturation intégrée, suivi du
-temps, gestion clients
+1 - Plateforme de gestion de projets freelance - Alternative à Notion/Trello spécialisée pour freelances avec facturation intégrée, suivi du temps, gestion clients
 2 - Outil de transcription & résumé de réunions - Enregistre, transcrit et génère des compte-rendus automatiques (Web + Python pour l'IA)
 3 - Générateur de documents légaux - Contrats, CGV, mentions légales personnalisables pour TPE/auto-entrepreneurs
 4 - Dashboard analytics multi-plateformes - Agrège les stats de plusieurs sources (réseaux sociaux, analytics, ventes) en un seul endroit
