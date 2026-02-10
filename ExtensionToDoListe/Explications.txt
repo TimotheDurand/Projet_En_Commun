@@ -1,0 +1,14 @@
+Cette extensions servira à :
+    1er Temps - Local - :
+        To Do liste 
+        Objectif personnaliser 
+        avancement du projet
+
+    2nd Temps - Réseaux - :
+        To do liste :
+            Equipes et solo 
+        Avancement de chaque partie du projet (date du dernier depos, et quelle partie)
+        Dead Line du projet 
+        Prochaine mise à jour 
+        Améliorations possible
+        Répartitions du Travail 
