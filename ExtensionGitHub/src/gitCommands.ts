@@ -58,7 +58,7 @@ async function executeGitCommand(command: string, cwd: string): Promise<string> 
     try {
         const { stdout, stderr } = await execPromise(command, { cwd });
         
-        if (stderr && !stderr.includes('warning')) {
+        if (stderr && !stderr.includes('warning') && !stderr.includes('->')) {
             throw new Error(stderr);
         }
         
